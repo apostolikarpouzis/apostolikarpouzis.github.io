@@ -45,7 +45,7 @@ section {
 }
 
 #trailer iframe {
-    pointer-events: auto;
+    pointer-events: none;
 }
 
 /* Flexbox styles for reviews */
